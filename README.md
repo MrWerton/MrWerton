@@ -1,9 +1,9 @@
 <div id = "statistic" >
   <a href="https://github.com/MrWerton">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mrwerton&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1017&title_color=0613d1&icon_color=777&text_color=0613d1&border_color=03009c"/>
-  <img height="150em" width:"50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrwerton&layout=compact&langs_count=7&bg_color=0d1017&title_color=0613d1&icon_color=777&text_color=0613d1&border_color=03009c"/>
+  <img height="150em" width:"50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrWerton&layout=compact&langs_count=7&bg_color=0d1017&title_color=0613d1&icon_color=777&text_color=0613d1&border_color=03009c"/>
 </div><hr>
- <div id="learned">
+ <div id="Knowledge">
      <h2>Learned</h2>
      <img align="center" alt="Learned-HTML" height="40" width="50" 
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -11,10 +11,7 @@
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="Learned-Js" height="40" width="50" 
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </div><hr>
-  <div id="learning">
-    <h2>Learning</h2>
-          <img align="center" alt="Learning-Ts" height="40" width="50" 
+    <img align="center" alt="Learning-Ts" height="40" width="50" 
                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
           <img align="center" alt="Learning-React" height="40" width="50" 
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -22,7 +19,7 @@
                 src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-plain.svg">
          <img align="center" alt="Learning-MongoDb" height="40" width="50" alt="100%"
                 src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mongodb/mongodb-plain-wordmark.svg">
-   </div><hr>
+  </div><hr>
   
  
 <div id="contacts"> 
