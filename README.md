@@ -4,7 +4,7 @@
   <img height="150em" width:"50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrWerton&layout=compact&langs_count=7&bg_color=0d1017&title_color=0613d1&icon_color=777&text_color=0613d1&border_color=03009c"/>
 </div><hr>
  <div id="Knowledge">
-     <h2>Learned</h2>
+     <h2>Knowledge</h2>
      <img align="center" alt="Learned-HTML" height="40" width="50" 
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" alt="Learned-CSS" height="40" width="50" alt="100%"  
